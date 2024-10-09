@@ -1,3 +1,2 @@
 # MasterThesis
-# JupyterNotebook
-# Python
+Jupyter Notebook /Python
