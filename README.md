@@ -1,2 +1,3 @@
 # MasterThesis
-Temporary
+# JupyterNotebook
+# Python
